@@ -1,0 +1,7 @@
+18.45 MiB    gs://assaignment316093632/body/index.pkl
+23.9 MiB     gs://assaignment316093632/title/title_index.pkl
+7.54 MiB     gs://assaignment316093632/anchor/anchor_text_index.pkl
+48.03 MiB    gs://assaignment316093632/metadata/dl.pkl
+73.49 MiB    gs://assaignment316093632/metadata/pageviews-202108-user.pkl
+168.88 MiB   gs://assaignment316093632/metadata/titels.pkl
+13.89 GiB    total
