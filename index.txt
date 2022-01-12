@@ -4399,12 +4399,11 @@
 100.39 KiB   gs://assaignment316093632/body/9_posting_locs.pickle
 18.45 MiB    gs://assaignment316093632/body/index.pkl
 5.92 GiB     gs://assaignment316093632/body/
-2.91 MiB     gs://assaignment316093632/metadata/PageRank.csv
 48.03 MiB    gs://assaignment316093632/metadata/dl.pkl
-0 B          gs://assaignment316093632/metadata/docs.csv
+193.87 MiB   gs://assaignment316093632/metadata/pagerank.pkl
 73.49 MiB    gs://assaignment316093632/metadata/pageviews-202108-user.pkl
 168.88 MiB   gs://assaignment316093632/metadata/titels.pkl
-293.31 MiB   gs://assaignment316093632/metadata/
+484.27 MiB   gs://assaignment316093632/metadata/
 0 B          gs://assaignment316093632/pr/
 0 B          gs://assaignment316093632/pr/_SUCCESS
 62.95 MiB    gs://assaignment316093632/pr/part-00000-08806f80-6b1c-4973-aaf4-442ec26cc081-c000.csv.gz
@@ -8019,5 +8018,4 @@
 4.3 KiB      gs://assaignment316093632/title/9_posting_locs.pickle
 23.9 MiB     gs://assaignment316093632/title/title_index.pkl
 89.76 MiB    gs://assaignment316093632/title/
-13.89 GiB    total
-
+14.07 GiB    total
