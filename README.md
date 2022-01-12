@@ -14,3 +14,8 @@ search_anchor - search in anchor index by binary score
 get_pagerank - pagerank by given wiki ids
 
 get_pageviews - page views number by wiki id
+
+
+# Inverted Index - our backend of reading in run time and writing the indexes in preruning
+
+# Index - file of all the indexes files in our bucket
